@@ -151,7 +151,7 @@ Swagger setup is included using swagger-jsdoc and swagger-ui-express.
 Local:
 
 ```id="j8n3cv"
-http://localhost:3000/api-docs
+http://localhost:4000/api-docs
 ```
 
 Live:
