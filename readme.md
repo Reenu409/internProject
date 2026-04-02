@@ -76,7 +76,7 @@ CREATE DATABASE event_management;
 1. Clone the repository:
 
 ```bash id="c7x1md"
-git clone <your-repo-link>
+git clone https://github.com/Reenu409/internProject.git
 cd project
 ```
 
